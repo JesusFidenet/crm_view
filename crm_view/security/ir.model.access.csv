@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+1,equipo_usuario,model_crm_equipo,base.group_user,1,1,1,1
+
+2,lead_usuario,model_crm_lead,base.group_user,1,1,1,1
+
+3,marca_usuario_,model_crm_marca,base.group_user,1,1,1,1
+
+4,servicio_user,model_crm_servicio,base.group_user,1,1,1,1
+5,modelo_user,model_crm_modelo,base.group_user,1,1,1,1
+
+access_crm_view_crm_triplet,access.crm_triplet,crm_view.model_crm_triplet,base.group_user,1,1,1,1
